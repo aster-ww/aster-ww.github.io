@@ -17,18 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate in School of Mathematical Sciences, Peking University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes applications of deep learning and statistical methods in biological data analysis.
 
+• **Single-cell/spatial transcriptomics data analysis:** cell clustering, cell-type annotation, novel cell detection 
+• **Single-cell multi-omics data analysis:** cell-type annotation, data integration, batch effect correction
 
-# 🔥 News
+# 📖 Educations
+- *2019.09 - Present*, Ph.D. in Statistics, School of Mathematical Science, Peking University, . Advisor: Prof. Minghua Deng
+- *2015.09 - 2019.06*, B.S. in Statistics, School of Statistics, East China Normal University. 
+
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +44,76 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+\* Joint first authors. 
+
+## Publications
+
+- **scEMAIL: universal and source-free annotation method for scRNA-seq data with novel cell-type perception. \[[Genomics, Proteomics & Bioinformatics](https://doi.org/10.1016/j.gpb.2022.12.008)\]**
+
+  **Hui Wan**, Liang Chen, Minghua Deng.
+  
+  *Genomics, Proteomics & Bioinformatics, Volume 20, Issue 5, October 2022, Pages 939-958*
+
+- **scNAME: neighborhood contrastive clustering with ancillary mask estimation for scRNA-seq data. \[[Bioinformatics]([https://www.nature.com/articles/s43588-022-00251-y](https://doi.org/10.1093/bioinformatics/btac011))\]**
+
+  **Hui Wan**\*, Liang Chen\*, Minghua Deng.
+
+  *Bioinformatics, Volume 38, Issue 6, March 2022, Pages 1575–1583*
+
+- **Statistical methods for microbiome compositional data network inference: a survey. \[[Journal of Computational Biology](https://doi.org/10.1089/cmb.2021.0406)\]**
+
+   Liang Chen\*, **Hui Wan**\*, Qiuyan He, Shun He, Minghua Deng.
+
+  *Journal of Computational Biology. Volume 29, July 2022, Issue 7, Pages 704-723*
+
+## Preprints
+
+- **Continually adapting pre-trained language model to universal annotation of single-cell RNA-seq data.**
+  
+  **Hui Wan**, Musu Yuan, Yiwei Fu, Minghua Deng.
+
+  *Briefings in Bioinformatics, Major Revision*
+  
+- **SPANN: Annotating single-cell resolution spatial transcriptome data with scRNA-seq data.**
+  
+  Musu Yuan\*, **Hui Wan**\*, Zihao Wang, Qirui Guo, Minghua Deng.
+  
+  *Briefings in Bioinformatics, Major Revision*
+
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*, Merit Student, Peking University.
+- *2023.03* Second-Class Scholarship, Center for Quantitative Biology, Peking University
+- *2022.10*, Award for Scientific Research, Peking University
+- *2022.10*, First-Class Scholarship of Mingpin Qian, School of Mathematical Sciences, Peking University
+- *2019.06*, Outstanding Graduate, Shanghai Municipal Commission of Education.
+- *2016.11*, National Scholarship, Ministry of Education of the People's Republic of China.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<!-- # 💬 Invited Talks
+- *2023.03*, Construction of a 3D whole organism spatial atlas by joint modeling of multiple slices with deep neural networks, Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
+- *2021.07*, Deep Generative Learning via Schrödinger Bridge, The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science. 
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+<!-- # 💡 Teaching
+- *2022.09 - 2022.12*, MATH 3423 Statistical Inference, Teaching Assistant, HKUST. 
+- *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
+- *2021.09 - 2021.12*, MATH 2411 Applied Statistics, Teaching Assistant, HKUST. 
+- *2021.02 - 2021.05*, MATH 3033 Real Analysis, Teaching Assistant, HKUST. 
+- *2020.09 - 2020.12*, MFIT 5010 Statistical Machine Learning, Teaching Assistant, HKUST. 
+- *2020.09 - 2020.12*, MATH 1013 Calculus IB, Teaching Assistant, HKUST. 
+- *2020.02 - 2020.05*, MAFS 6010S Machine Learning and its Applications, Teaching Assistant, HKUST. 
+- *2020.02 - 2020.05*, MATH 1014 Calculus II, Teaching Assistant, HKUST. 
+- *2017.08*, Volunteer teacher in Wanyuan Middle School, Sichuan Province. 
+
+# 🌍 Contact 
+- Email: wanhui1997[at]pku[dot]edu
+- Address: Peking University, No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
