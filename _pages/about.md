@@ -29,10 +29,6 @@ My research interest includes applications of deep learning and statistical meth
 - *2019.09 - Present*, Ph.D. in Statistics, School of Mathematical Science, Peking University. Advisor: Prof. Minghua Deng
 - *2015.09 - 2019.06*, B.S. in Statistics, School of Statistics, East China Normal University. 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -94,26 +90,6 @@ My research interest includes applications of deep learning and statistical meth
 - *2019.06*, Outstanding Graduate, Shanghai Municipal Commission of Education.
 - *2016.11*, National Scholarship, Ministry of Education of the People's Republic of China.
 
-
-
-
-<!-- # 💬 Invited Talks
-- *2023.03*, Construction of a 3D whole organism spatial atlas by joint modeling of multiple slices with deep neural networks, Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
-- *2021.07*, Deep Generative Learning via Schrödinger Bridge, The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science. 
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-<!-- # 💡 Teaching
-- *2022.09 - 2022.12*, MATH 3423 Statistical Inference, Teaching Assistant, HKUST. 
-- *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
-- *2021.09 - 2021.12*, MATH 2411 Applied Statistics, Teaching Assistant, HKUST. 
-- *2021.02 - 2021.05*, MATH 3033 Real Analysis, Teaching Assistant, HKUST. 
-- *2020.09 - 2020.12*, MFIT 5010 Statistical Machine Learning, Teaching Assistant, HKUST. 
-- *2020.09 - 2020.12*, MATH 1013 Calculus IB, Teaching Assistant, HKUST. 
-- *2020.02 - 2020.05*, MAFS 6010S Machine Learning and its Applications, Teaching Assistant, HKUST. 
-- *2020.02 - 2020.05*, MATH 1014 Calculus II, Teaching Assistant, HKUST. 
-- *2017.08*, Volunteer teacher in Wanyuan Middle School, Sichuan Province. 
 
 # 🌍 Contact 
 - Email: wanhui1997[at]pku[dot]edu
