@@ -21,9 +21,6 @@ I am a Ph.D. candidate in School of Mathematical Sciences, Peking University.
 
 My research interest includes applications of deep learning and statistical methods in biological data analysis.
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/homepage_photo.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 • **Single-cell/spatial transcriptomics data analysis:** cell clustering, cell-type annotation, novel cell detection 
 
 • **Single-cell multi-omics data analysis:** cell-type annotation, data integration, batch effect correction
