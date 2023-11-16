@@ -53,7 +53,7 @@ My research interest includes applications of deep learning and statistical meth
   
   *Genomics, Proteomics & Bioinformatics, Volume 20, Issue 5, October 2022, Pages 939-958*
 
-- **scNAME: neighborhood contrastive clustering with ancillary mask estimation for scRNA-seq data. \[[Bioinformatics]([https://www.nature.com/articles/s43588-022-00251-y](https://doi.org/10.1093/bioinformatics/btac011))\]**
+- **scNAME: neighborhood contrastive clustering with ancillary mask estimation for scRNA-seq data. \[[Bioinformatics](https://doi.org/10.1093/bioinformatics/btac011)\]**
 
   **Hui Wan**\*, Liang Chen\*, Minghua Deng.
 
