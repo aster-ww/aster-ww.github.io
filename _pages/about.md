@@ -63,7 +63,7 @@ My research interest includes applications of deep learning and statistical meth
 
    Liang Chen\*, **Hui Wan**\*, Qiuyan He, Shun He, Minghua Deng.
 
-  *Journal of Computational Biology. Volume 29, July 2022, Issue 7, Pages 704-723*
+  *Journal of Computational Biology, Volume 29, Issue 7, July 2022, Pages 704-723*
 
 ## Preprints
 
@@ -84,9 +84,9 @@ My research interest includes applications of deep learning and statistical meth
 
 # 🎖 Honors and Awards
 - *2023.10*, Merit Student, Peking University.
-- *2023.03*, Second-Class Scholarship, Center for Quantitative Biology, Peking University
-- *2022.10*, Award for Scientific Research, Peking University
-- *2022.10*, First-Class Scholarship of Mingpin Qian, School of Mathematical Sciences, Peking University
+- *2023.03*, Second-Class Scholarship, Center for Quantitative Biology, Peking University.
+- *2022.10*, Award for Scientific Research, Peking University.
+- *2022.10*, First-Class Scholarship of Mingpin Qian, School of Mathematical Sciences, Peking University.
 - *2019.06*, Outstanding Graduate, Shanghai Municipal Commission of Education.
 - *2016.11*, National Scholarship, Ministry of Education of the People's Republic of China.
 
