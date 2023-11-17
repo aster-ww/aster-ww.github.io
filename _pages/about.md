@@ -26,7 +26,7 @@ My research interest includes applications of deep learning and statistical meth
 • **Single-cell multi-omics data analysis:** cell-type annotation, data integration, batch effect correction
 
 # 📖 Educations
-- *2019.09 - Present*, Ph.D. in Statistics, School of Mathematical Science, Peking University. Advisor: Prof. Minghua Deng
+- *2019.09 - Present*, Ph.D. in Statistics, School of Mathematical Sciences, Peking University. Advisor: Prof. Minghua Deng
 - *2015.09 - 2019.06*, B.S. in Statistics, School of Statistics, East China Normal University. 
 
 # 📝 Publications 
