@@ -59,6 +59,12 @@ My research interest includes applications of deep learning and statistical meth
 
   *Bioinformatics, Volume 38, Issue 6, March 2022, Pages 1575–1583*
 
+- **Continually adapting pre-trained language model to universal annotation of single-cell RNA-seq data.**
+
+  **Hui Wan**, Musu Yuan, Yiwei Fu, Minghua Deng.
+  
+  *Briefings in Bioinformatics, In press*
+
 - **SPANN: Annotating single-cell resolution spatial transcriptome data with scRNA-seq data.**
   
   Musu Yuan\*, **Hui Wan**\*, Zihao Wang, Qirui Guo, Minghua Deng.
@@ -70,16 +76,6 @@ My research interest includes applications of deep learning and statistical meth
    Liang Chen\*, **Hui Wan**\*, Qiuyan He, Shun He, Minghua Deng.
 
   *Journal of Computational Biology, Volume 29, Issue 7, July 2022, Pages 704-723*
-
-## Preprints
-
-- **Continually adapting pre-trained language model to universal annotation of single-cell RNA-seq data.**
-  
-  **Hui Wan**, Musu Yuan, Yiwei Fu, Minghua Deng.
-
-  *Briefings in Bioinformatics, Minor Revision*
-  
-
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
