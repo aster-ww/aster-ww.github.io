@@ -63,13 +63,13 @@ My research interest includes applications of deep learning and statistical meth
 
   **Hui Wan**, Musu Yuan, Yiwei Fu, Minghua Deng.
   
-  *Briefings in Bioinformatics, In press*
+  *Briefings in Bioinformatics, Volume 25, Issue 2, March 2024, bbae047*
 
 - **SPANN: Annotating single-cell resolution spatial transcriptome data with scRNA-seq data.**
   
   Musu Yuan\*, **Hui Wan**\*, Zihao Wang, Qirui Guo, Minghua Deng.
   
-  *Briefings in Bioinformatics, In press*
+  *Briefings in Bioinformatics, Volume 25, Issue 2, March 2024, bbad533*
 
 - **Statistical methods for microbiome compositional data network inference: a survey. \[[Journal of Computational Biology](https://doi.org/10.1089/cmb.2021.0406)\]**
 
