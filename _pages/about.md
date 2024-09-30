@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in School of Mathematical Sciences, Peking University.
+I am a postdoctoral research fellow in the Department of Biostatistics at the University of Michigan, under the supervision of Prefessor Xiang Zhou.
 
 My research interest includes applications of deep learning and statistical methods in biological data analysis.
 
@@ -26,7 +26,7 @@ My research interest includes applications of deep learning and statistical meth
 • **Single-cell multi-omics data analysis:** cell-type annotation, data integration, batch effect correction
 
 # 📖 Educations
-- *2019.09 - Present*, Ph.D. in Statistics, School of Mathematical Sciences, Peking University. Advisor: Prof. Minghua Deng
+- *2019.09 - 2024.06*, Ph.D. in Statistics, School of Mathematical Sciences, Peking University. Advisor: Prof. Minghua Deng
 - *2015.09 - 2019.06*, B.S. in Statistics, School of Statistics, East China Normal University. 
 
 # 📝 Publications 
