@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral research fellow in the Department of Biostatistics at the University of Michigan, under the supervision of Prefessor Xiang Zhou.
+I am a postdoctoral research fellow in the Department of Statistics and Data Science, Yale University, under the supervision of Prefessor Xiang Zhou.
 
 My research interest includes applications of deep learning and statistical methods in biological data analysis.
 
@@ -90,5 +90,10 @@ My research interest includes applications of deep learning and statistical meth
 
 
 # 🌍 Contact 
-- Email: wanhui1997[at]pku[dot]edu
-- Address: Peking University, No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
+- Email: hui.wan[at]yale[dot]edu
+- Address:
+Kline Tower, Room 1115
+219 Prospect Street
+Department of Statistics and Data Science
+Yale University
+New Haven, CT 06511
