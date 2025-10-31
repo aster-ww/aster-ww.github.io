@@ -92,12 +92,9 @@ My research interest includes applications of deep learning and statistical meth
 # 🌍 Contact 
 - Email: hui.wan[at]yale[dot]edu
 - Address:
-Kline Tower, Room 1115
-
-219 Prospect Street
-
-Department of Statistics and Data Science
-
-Yale University
-
+  
+Kline Tower, Room 1115\
+219 Prospect Street\
+Department of Statistics and Data Science\
+Yale University\
 New Haven, CT 06511
