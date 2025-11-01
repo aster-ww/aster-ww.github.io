@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral research fellow in the Department of Statistics and Data Science, Yale University, under the supervision of Prefessor Xiang Zhou.
+I am a postdoctoral research fellow in the Department of Statistics and Data Science at Yale University, under the supervision of Prefessor Xiang Zhou.
 
 My research interest includes applications of deep learning and statistical methods in biological data analysis.
 
