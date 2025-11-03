@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral research fellow in the Department of Statistics and Data Science at Yale University, under the supervision of Prefessor Xiang Zhou.
+I am a postdoctoral associate in the Department of Statistics and Data Science at Yale University, under the supervision of Professor Xiang Zhou.
 
 My research interest includes applications of deep learning and statistical methods in biological data analysis.
 
-• **Single-cell/spatial transcriptomics data analysis:** cell clustering, cell-type annotation, novel cell detection 
+• **Spatial transcriptomics data analysis:** spatial domain detection, gene colocalization analysis, novel cell detection 
 
 • **Single-cell multi-omics data analysis:** cell-type annotation, data integration, batch effect correction
 
