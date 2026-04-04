@@ -1,0 +1,9 @@
+# Academic Homepage - File Structure
+
+This file ensures the images directory is tracked by Git.
+Place your profile photo here as "profile.jpg"
+
+Recommended image specifications:
+- Size: 400x400 pixels
+- Format: JPG or PNG
+- File size: < 500KB for optimal loading
