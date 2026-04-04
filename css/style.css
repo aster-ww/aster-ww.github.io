@@ -851,6 +851,15 @@ body {
     justify-content: center;
     color: var(--text-light);
     font-size: 24px;
+    overflow: hidden;
+}
+
+.education-icon .school-logo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 5px;
+    background: white;
 }
 
 .education-details h4 {
@@ -1003,8 +1012,8 @@ body {
 
 .publication-icon {
     flex-shrink: 0;
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     border-radius: 10px;
     background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
     display: flex;
@@ -1012,6 +1021,13 @@ body {
     justify-content: center;
     color: var(--text-light);
     font-size: 20px;
+    overflow: hidden;
+}
+
+.publication-icon .paper-thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .publication-content h3 {
