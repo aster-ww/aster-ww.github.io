@@ -1030,6 +1030,33 @@ body {
     object-fit: cover;
 }
 
+/* Publication card with background image */
+.publication-card.has-bg-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.publication-card.has-bg-image {
+    display: flex;
+    gap: 25px;
+    padding: 30px;
+}
+
+.publication-card.has-bg-image .pub-bg-image {
+    flex-shrink: 0;
+    width: 280px;
+    min-height: 200px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1;
+    border-radius: 8px;
+}
+
+.publication-card.has-bg-image .publication-content {
+    flex: 1;
+}
+
 .publication-content h3 {
     font-size: 20px;
     color: var(--text-primary);
