@@ -629,6 +629,11 @@ body {
     color: #fff;
 }
 
+.hero-pub-status--preprint {
+    background: linear-gradient(135deg, #ed8936, #dd6b20);
+    color: #fff;
+}
+
 .hero-pub-status--published {
     background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
     color: #fff;
@@ -959,6 +964,17 @@ body {
     display: inline-block;
     padding: 4px 12px;
     background: linear-gradient(135deg, #48bb78, #38a169);
+    color: white;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-right: 8px;
+}
+
+.badge.preprint {
+    display: inline-block;
+    padding: 4px 12px;
+    background: linear-gradient(135deg, #ed8936, #dd6b20);
     color: white;
     border-radius: 20px;
     font-size: 13px;

@@ -65,6 +65,7 @@ function initNavigation() {
 function initTypingEffect() {
     const typingText = document.querySelector('.typing-text');
     const phrases = [
+        'Subcellular Spatial Transcriptomics',
         'Spatial Transcriptomics Data Analysis',
         'Single-cell Multi-omics',
         'Deep Learning & Statistical Methods',
