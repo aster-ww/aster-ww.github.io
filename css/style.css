@@ -212,6 +212,11 @@ body {
     display: none;
 }
 
+/* Keep sidebar items at their own size on short screens; the sidebar scrolls instead. */
+.hero-sidebar-inner > * {
+    flex-shrink: 0;
+}
+
 /* Profile Image */
 .profile-image {
     width: 150px;
